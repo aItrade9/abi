@@ -4,7 +4,7 @@ This document provides the ABI for the withdrawal functions in the DeFi Contract
 
 ## Contract Address
 ```
-0xa258Ed7Bd1aE334346496088f526aBB75a739f5F
+0x9078f1816cc276a5e7d80accf109dfee5b97eb76
 ```
 
 ## ABI Specification
